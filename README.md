@@ -58,4 +58,4 @@ Writing the HTML markup had me a little confused with trying to position the ele
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/pheight-89)
+- Frontend Mentor - [@pheight-89](https://www.frontendmentor.io/profile/pheight-89)
