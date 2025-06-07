@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/testimonial-grid-screenshot.png.jpg)
+![](/testimonial-grid-screenshot.png)
 
 ## My process
 
